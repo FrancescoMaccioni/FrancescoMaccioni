@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Francesco Maccioni
 
-<!--
-**FrancescoMaccioni/FrancescoMaccioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect with a background in embedded systems and automotive software 
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor's degree in Computer Engineering.
+- Professional experience in software architecture and AUTOSAR.
+- Experience working with C code.
+- Based in Sardinia, Italy.
+
+## Currently working on
+
+- Building practical Python applications.
+- Developing my Git and GitHub collaboration skills.
+- Expanding my skills in backend development.
+
+## Learning direction
+
+I plan to deepen my knowledge of AI engineering and build applications that integrate AI capabilities.
